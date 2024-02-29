@@ -37,3 +37,40 @@ font-size: 1.5rem;
 font-size: 1.2rem;
 font-weight: 500;
 }
+@media only screen and (max-width:992){
+.car__item h4{
+    font-size: 1.1rem;
+    margin-bottom: 0;
+}
+.car__item h6{
+    font-style: 1rem;
+    margin-top: 10px;
+}
+.car__item-info{
+    flex-wrap: wrap;
+}
+.car__item-info span{
+  font-size: 0.8rem;
+  justify-content: space-between;  
+}
+.car__item__btn{
+    padding: 5px 10px;
+    font-size: 0.9rem;
+}
+}
+@media only screen and (max-width:768px){
+    .car__item h4{
+        font-size: 1rem;
+    }
+    .car__item h6{
+        font-style: 0.9rem;
+    } 
+    .car__item-info span{
+        font-size: 0.7rem;} 
+        .car__item-info span i{
+            font-size: 0.9rem;
+        }
+        .car__item__btn{
+             font-size: .8rem;
+        }
+}

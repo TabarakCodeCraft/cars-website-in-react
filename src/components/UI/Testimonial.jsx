@@ -40,9 +40,7 @@ export const Testimonial = () => {
     <Slider {...settings}>
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, ipsum
-          non? Atque excepturi ea, vero sequi odio dignissimos ex aliquam nemo
-          ducimus dolorem voluptas, officiis obcaecati nostrum voluptatum
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. officiis obcaecati nostrum voluptatum
           doloribus natus laborum assumenda dicta qui laudantium omnis
           repellendus. Error, veniam alias?
         </p>
@@ -56,10 +54,8 @@ export const Testimonial = () => {
       </div>
 
       <div className="testimonial py-4 px-3">
-        <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, ipsum
-          non? Atque excepturi ea, vero sequi odio dignissimos ex aliquam nemo
-          ducimus dolorem voluptas, officiis obcaecati nostrum voluptatum
+      <p className="section__description">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. officiis obcaecati nostrum voluptatum
           doloribus natus laborum assumenda dicta qui laudantium omnis
           repellendus. Error, veniam alias?
         </p>
@@ -73,10 +69,8 @@ export const Testimonial = () => {
       </div>
 
       <div className="testimonial py-4 px-3">
-        <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, ipsum
-          non? Atque excepturi ea, vero sequi odio dignissimos ex aliquam nemo
-          ducimus dolorem voluptas, officiis obcaecati nostrum voluptatum
+      <p className="section__description">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. officiis obcaecati nostrum voluptatum
           doloribus natus laborum assumenda dicta qui laudantium omnis
           repellendus. Error, veniam alias?
         </p>
@@ -90,10 +84,8 @@ export const Testimonial = () => {
       </div>
 
       <div className="testimonial py-4 px-3">
-        <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, ipsum
-          non? Atque excepturi ea, vero sequi odio dignissimos ex aliquam nemo
-          ducimus dolorem voluptas, officiis obcaecati nostrum voluptatum
+      <p className="section__description">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. officiis obcaecati nostrum voluptatum
           doloribus natus laborum assumenda dicta qui laudantium omnis
           repellendus. Error, veniam alias?
         </p>

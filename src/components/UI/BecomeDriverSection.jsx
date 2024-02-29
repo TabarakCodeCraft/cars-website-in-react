@@ -8,7 +8,7 @@ export const BecomeDriverSection = () => {
     <section className="become__driver">
       <Container>
         <Row>
-          <Col lg="6" md="6" sm="12">
+          <Col lg="6" md="6" sm="12" className="become__d-img">
             <img src={img} alt="" className="w-100" />
           </Col>
 

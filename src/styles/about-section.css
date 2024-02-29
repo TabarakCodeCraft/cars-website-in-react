@@ -12,4 +12,24 @@
     .about__section-item{
         column-gap: 2.7rem;
     }
+    .about__section-item p{
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+    .section__description{
+        font-size: 0.8rem;
+    }
+}
+@media only screen and (max-width:768px){
+.about__img{
+    margin-top: 30px;
+}
+.about__section{
+    margin-top: 250px;
+}
+}
+@media only screen and (max-width:576px){
+    .about__section{
+        margin-top: 250px;
+    }
 }
