@@ -64,14 +64,16 @@ color: #7c8a97;
 
 .find__car_btn {
     background: #000d6b;
-    color: #fff;
     padding: 8px 15px;
     width: 100%;
     border: none;
     outline: none;
     border-radius: 10px;
 }
-
+.find__car_btn a{
+    color: #fff;
+    text-decoration: none;
+}
 .find__car_btn button:hover {
     color: #fff !important;
     background: #000d6b !important;

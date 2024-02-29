@@ -1,7 +1,7 @@
 import React from "react";
 import "../../styles/findCarForm.css";
-import "../../styles/findCarForm.css";
 import { Form, FormGroup } from "reactstrap";
+import { Link } from "react-router-dom";
 
 function FindCarForm() {
   return (
@@ -36,7 +36,8 @@ function FindCarForm() {
         </FormGroup>
 
         <FormGroup className="form__group">
-          <button className="find__car_btn">Find Car</button>
+          <button className="find__car_btn">
+          <Link to={'/car'}>Find Car</Link></button>
         </FormGroup>
       </div>
     </Form>
